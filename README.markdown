@@ -8,4 +8,4 @@ by [Michael Hartl] (http://michaelhartl.com/).
 
 To run tests at DEV environment
 
-ENV=DEV API_KEY='Sample_Key' py.test tests/
+*ENV=DEV API_KEY='Sample_Key' py.test tests/
